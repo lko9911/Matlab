@@ -1,4 +1,4 @@
-## MATLAB (2024 ver)
+## MATLAB (2024 ver) 🦔
 
 학습용 자료
 
