@@ -1,4 +1,4 @@
-% Matlab _ Mass-Spring-Damper System's step
+% Matlab _ Mass-Spring-Damper System (step)
 
 % 시스템 파라미터 정의
 mass = 1;
