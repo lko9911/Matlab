@@ -25,3 +25,4 @@ for i = 1:length(B)
     xlabel('Time (sec)');
     ylabel('Position (m)');
 end
+
