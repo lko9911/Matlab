@@ -5,3 +5,5 @@
 1. 모델링 (Step, Impulse)
 
 2. Simulink
+
+3. 라플라스 변환및 모델링
